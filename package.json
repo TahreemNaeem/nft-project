@@ -1,0 +1,22 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.1",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "modules": "^0.4.0",
+    "node": "^18.7.0",
+    "truffle-plugin-verify": "^0.5.27"
+  },
+  "description": ""
+}
